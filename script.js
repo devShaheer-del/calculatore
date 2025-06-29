@@ -1,4 +1,4 @@
-console.log("Hello world");
+// console.log("Hello world");
 
 
 
@@ -16,7 +16,7 @@ let String = '';
 
 buttonsArray.forEach(btn => {
     btn.addEventListener('click', (e) => {
-        console.log(e.target.innerHTML);
+        // console.log(e.target.innerHTML);
 
 
 
